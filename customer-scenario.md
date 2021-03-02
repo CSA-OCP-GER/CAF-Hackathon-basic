@@ -1,6 +1,6 @@
-![CAF Hackathon](./media/caf-hackathon-header.png)
-
 # CAF-Hackathon prerequisites
+
+![CAF Hackathon](./media/caf-hackathon-header.png)
 
 ## Customer Scenario - Contoso Land Surveying
 
