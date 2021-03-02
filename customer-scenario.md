@@ -31,6 +31,7 @@ Contoso Land Surveying IT team have asked Microsoft to help develop a high-level
 - Leverage technology such as drones to optimise surveys & offer surveying solutions in areas not possible with people or conventional machines such as underwater, dangerous / hazardous environments or environments with limits on heavy equipment.
 
 Additional possibly relevant information found from various sources:
+
 ![IT spending as a percent of revenue](media/IT-spending-as-percent-of-revenue.png)
 
 ![IT spending per employee](media/IT-spending-per-employee.png)
