@@ -49,6 +49,8 @@ In this challenge you will learn about the Define Strategy phase from the Cloud 
 - Establish clear business outcomes, by ket stakeholders or decision-makers, that align with your motivations.
 - Define your business case by capturing a business justification through a financial model to project business impact.
 
+[Guide for this challenge...](./challenges/challenge1.md)
+
 ### Challenge 2: Governance
 
 In this challenge you will have the opportunity to review the organization and understand how they can build a governance framework.
