@@ -61,6 +61,8 @@ In this challenge you will have the opportunity to review the organization and u
 - Skills readiness path; capabilities required for managing their cloud environment
 - Cloud adoption team verified (RACI)
 
+[Guide for this challenge...](./challenges/challenge2.md)
+
 ### Challenge 3: Building the Plan
 
 This challenge focuses on preparing an assessment of the anticipated cloud costs.  You will be provided with a spreadsheet of the customer’s real estate. 
@@ -70,9 +72,13 @@ This challenge focuses on preparing an assessment of the anticipated cloud costs
 - Take inventory of your digital estate
 - Understanding cloud costs
 
+[Guide for this challenge...](./challenges/challenge3.md)
+
 ### Challenge 4: Presenting the plan to the customer
 
 This challenge simulates a real-world conversation with your stakeholder’s leadership team.  Here, you will present your case and justify why they should adopt Azure.
+
+[Guide for this challenge...](./challenges/challenge4.md)
 
 ## Additional content
 
